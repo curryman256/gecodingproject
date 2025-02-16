@@ -1,0 +1,113 @@
+Address,City,State,PostalCode,Full_Address,Latitude,Longitude
+123 Main St,New York,NY,10001,"123 Main St, New York, NY 10001",41.0154948,-73.874774
+456 Elm Street,Los Angeles,CA,90001,"456 Elm Street, Los Angeles, CA 90001",33.984759714285715,-118.118696
+789 Oak Ave,Chicago,IL,60601,"789 Oak Ave, Chicago, IL 60601",41.69629259576777,-87.77537309626202
+101 Pine Rd,Houston,TX,77001,"101 Pine Rd, Houston, TX 77001",31.486951751509697,-95.47896479764862
+202 Maple Blvd,Phoenix,AZ,85001,"202 Maple Blvd, Phoenix, AZ 85001",33.659904,-112.105369
+303 Cedar Ln,Philadelphia,PA,19101,"303 Cedar Ln, Philadelphia, PA 19101",40.068272945814606,-75.14412230085011
+404 Birch St,San Antonio,TX,78201,"404 Birch St, San Antonio, TX 78201",29.402723583625328,-98.4706760841877
+505 Spruce Ave,San Diego,CA,92101,"505 Spruce Ave, San Diego, CA 92101",32.79320404941214,-117.02804077338232
+606 Walnut Dr,Dallas,TX,75201,"606 Walnut Dr, Dallas, TX 75201",32.762820592338095,-96.60941524291954
+707 Cherry St,San Jose,CA,95101,"707 Cherry St, San Jose, CA 95101",37.310141,-121.909766
+808 Ash Rd,Austin,TX,73301,"808 Ash Rd, Austin, TX 73301",30.326374,-97.771258
+909 Poplar Ave,Jacksonville,FL,32099,"909 Poplar Ave, Jacksonville, FL 32099",29.916736,-81.294634
+111 Willow Ln,Fort Worth,TX,76101,"111 Willow Ln, Fort Worth, TX 76101",32.852801,-97.37702
+222 Sycamore St,Columbus,OH,43085,"222 Sycamore St, Columbus, OH 43085",39.948700843637766,-83.00201781603305
+333 Magnolia Blvd,Charlotte,NC,28201,"333 Magnolia Blvd, Charlotte, NC 28201",35.20578,-80.859492
+444 Dogwood Dr,San Francisco,CA,94016,"444 Dogwood Dr, San Francisco, CA 94016",37.380469,-122.1074
+555 Redwood Rd,Indianapolis,IN,46201,"555 Redwood Rd, Indianapolis, IN 46201",39.685275,-86.109892
+666 Sequoia Ave,Seattle,WA,98101,"666 Sequoia Ave, Seattle, WA 98101",47.610902,-122.336422
+777 Fir St,Denver,CO,80201,"777 Fir St, Denver, CO 80201",32.9590652244898,-102.8199897755102
+888 Hemlock Ln,Washington,DC,20001,"888 Hemlock Ln, Washington, DC 20001",38.981368,-77.025276
+999 Juniper Rd,Boston,MA,2108,"999 Juniper Rd, Boston, MA 2108",14.4847,45.9299
+1000 Cypress Ave,El Paso,TX,79901,"1000 Cypress Ave, El Paso, TX 79901",31.762596229443208,-106.4674153347148
+1100 Spruce St,Nashville,TN,37201,"1100 Spruce St, Nashville, TN 37201",36.1585871727673,-86.80473036818046
+1200 Pinecone Dr,Detroit,MI,48201,"1200 Pinecone Dr, Detroit, MI 48201",42.347021,-83.060184
+1300 Acorn Blvd,Portland,OR,97035,"1300 Acorn Blvd, Portland, OR 97035",45.664148,-121.544601
+1400 Chestnut Rd,Memphis,TN,37501,"1400 Chestnut Rd, Memphis, TN 37501",35.169255,-89.990415
+1500 Hickory Ln,Oklahoma City,OK,73101,"1500 Hickory Ln, Oklahoma City, OK 73101",35.4725088,-97.38151015
+1600 Pecan St,Las Vegas,NV,88901,"1600 Pecan St, Las Vegas, NV 88901",36.2855373,-115.2928768
+1700 Walnut Ave,Louisville,KY,40201,"1700 Walnut Ave, Louisville, KY 40201",38.31117,-85.518886
+1800 Cedar Blvd,Baltimore,MD,21201,"1800 Cedar Blvd, Baltimore, MD 21201",39.287867,-76.626643
+1900 Maple Dr,Milwaukee,WI,53201,"1900 Maple Dr, Milwaukee, WI 53201",43.040735,-87.99569
+2000 Oak Ln,Albuquerque,NM,87101,"2000 Oak Ln, Albuquerque, NM 87101",35.161422,-106.584882
+2100 Birch Rd,Tucson,AZ,85641,"2100 Birch Rd, Tucson, AZ 85641",32.442287,-110.758403
+2200 Poplar Ave,Fresno,CA,93650,"2200 Poplar Ave, Fresno, CA 93650",36.85435096477732,-119.79625781347708
+2300 Willow St,Sacramento,CA,94203,"2300 Willow St, Sacramento, CA 94203",38.63556768248969,-121.42917901195852
+2400 Sycamore Blvd,Kansas City,MO,64101,"2400 Sycamore Blvd, Kansas City, MO 64101",39.038768,-94.491962
+2500 Magnolia Dr,Atlanta,GA,30301,"2500 Magnolia Dr, Atlanta, GA 30301",33.669312,-84.435571
+2600 Dogwood Rd,Miami,FL,33101,"2600 Dogwood Rd, Miami, FL 33101",25.779298,-80.198739
+2700 Redwood Ln,Raleigh,NC,27601,"2700 Redwood Ln, Raleigh, NC 27601",35.715959,-78.706378
+2800 Sequoia Ave,Omaha,NE,68101,"2800 Sequoia Ave, Omaha, NE 68101",41.123784,-95.919772
+2900 Fir Blvd,Minneapolis,MN,55401,"2900 Fir Blvd, Minneapolis, MN 55401",44.984577,-93.269097
+3000 Hemlock Dr,Tulsa,OK,74101,"3000 Hemlock Dr, Tulsa, OK 74101",36.039147,-95.868667
+3100 Juniper Rd,Wichita,KS,67201,"3100 Juniper Rd, Wichita, KS 67201",37.612333,-97.297919
+3200 Cypress Ave,New Orleans,LA,70112,"3200 Cypress Ave, New Orleans, LA 70112",29.96423,-90.142181
+3300 Spruce St,Arlington,TX,76001,"3300 Spruce St, Arlington, TX 76001",32.391588,-97.321715
+3400 Pinecone Blvd,Cleveland,OH,44101,"3400 Pinecone Blvd, Cleveland, OH 44101",41.3619,-81.71489
+3500 Acorn Ln,Bakersfield,CA,93301,"3500 Acorn Ln, Bakersfield, CA 93301",35.384337,-119.020562
+3600 Chestnut Rd,Tampa,FL,33601,"3600 Chestnut Rd, Tampa, FL 33601",27.958582,-82.478752
+3700 Hickory Ave,Aurora,CO,80010,"3700 Hickory Ave, Aurora, CO 80010",41.752856542492346,-88.29286359464045
+3800 Pecan Blvd,Honolulu,HI,96801,"3800 Pecan Blvd, Honolulu, HI 96801",21.320486,-157.803444
+3900 Walnut Dr,Anaheim,CA,92801,"3900 Walnut Dr, Anaheim, CA 92801",33.83206,-117.562954
+4000 Cedar Ln,Santa Ana,CA,92701,"4000 Cedar Ln, Santa Ana, CA 92701",33.733589,-117.85867
+4100 Maple Rd,Corpus Christi,TX,78401,"4100 Maple Rd, Corpus Christi, TX 78401",27.744704,-97.391377
+4200 Oak Ave,Riverside,CA,92501,"4200 Oak Ave, Riverside, CA 92501",33.85226990912992,-117.59275335456668
+4300 Birch Blvd,Lexington,KY,40502,"4300 Birch Blvd, Lexington, KY 40502",38.089196,-84.504268
+4400 Poplar Dr,Stockton,CA,95201,"4400 Poplar Dr, Stockton, CA 95201",38.119828,-121.260241
+4500 Willow Rd,Pittsburgh,PA,15201,"4500 Willow Rd, Pittsburgh, PA 15201",40.473115,-79.962085
+4600 Sycamore Ave,St. Louis,MO,63101,"4600 Sycamore Ave, St. Louis, MO 63101",38.694471,-90.271456
+4700 Magnolia Ln,Cincinnati,OH,45201,"4700 Magnolia Ln, Cincinnati, OH 45201",39.247007,-84.447569
+4800 Dogwood Blvd,Henderson,NV,89002,"4800 Dogwood Blvd, Henderson, NV 89002",36.211205,-115.117032
+4900 Redwood Rd,Greensboro,NC,27401,"4900 Redwood Rd, Greensboro, NC 27401",36.092141,-79.754877
+5000 Sequoia Dr,Plano,TX,75023,"5000 Sequoia Dr, Plano, TX 75023",33.04387972602289,-96.72186396431655
+5100 Fir Ave,Newark,NJ,7101,"5100 Fir Ave, Newark, NJ 7101",0.7103,123.9477
+5200 Hemlock Rd,Lincoln,NE,68501,"5200 Hemlock Rd, Lincoln, NE 68501",40.865142,-96.823133
+5300 Juniper Blvd,Orlando,FL,32801,"5300 Juniper Blvd, Orlando, FL 32801",28.545179,-81.373291
+5400 Cypress Ln,Irvine,CA,92602,"5400 Cypress Ln, Irvine, CA 92602",33.615479,-117.68658
+5500 Spruce Dr,Toledo,OH,43601,"5500 Spruce Dr, Toledo, OH 43601",41.585434,-83.609764
+5600 Pinecone Ave,Jersey City,NJ,7302,"5600 Pinecone Ave, Jersey City, NJ 7302",-5.421,120.2399
+5700 Acorn Rd,Chula Vista,CA,91909,"5700 Acorn Rd, Chula Vista, CA 91909",32.619054,-116.461557
+5800 Chestnut Ln,Buffalo,NY,14201,"5800 Chestnut Ln, Buffalo, NY 14201",42.861703,-78.725454
+5900 Hickory Blvd,Fort Wayne,IN,46801,"5900 Hickory Blvd, Fort Wayne, IN 46801",41.218962,-85.078896
+6000 Pecan Ave,Chandler,AZ,85224,"6000 Pecan Ave, Chandler, AZ 85224",33.322922,-111.875183
+6100 Walnut Rd,Laredo,TX,78040,"6100 Walnut Rd, Laredo, TX 78040",30.092634,-98.775104
+6200 Cedar Dr,Norfolk,VA,23501,"6200 Cedar Dr, Norfolk, VA 23501",36.889615,-76.31411
+6300 Maple Ln,Durham,NC,27701,"6300 Maple Ln, Durham, NC 27701",35.925094,-78.93974
+6400 Oak Rd,Madison,WI,53701,"6400 Oak Rd, Madison, WI 53701",43.06932,-89.332492
+6500 Birch Ave,Lubbock,TX,79401,"6500 Birch Ave, Lubbock, TX 79401",33.582940730497405,-101.8347087557495
+6600 Poplar Blvd,Gilbert,AZ,85233,"6600 Poplar Blvd, Gilbert, AZ 85233",33.365558,-111.796681
+6700 Willow Dr,Reno,NV,89501,"6700 Willow Dr, Reno, NV 89501",39.524705,-119.798359
+6800 Sycamore Rd,North Las Vegas,NV,89030,"6800 Sycamore Rd, North Las Vegas, NV 89030",36.180669,-116.003265
+6900 Magnolia Ave,Chesapeake,VA,23320,"6900 Magnolia Ave, Chesapeake, VA 23320",36.76746462838116,-76.3186654641361
+7000 Dogwood Ln,Garland,TX,75040,"7000 Dogwood Ln, Garland, TX 75040",32.9515,-96.642443
+7100 Redwood Blvd,Scottsdale,AZ,85250,"7100 Redwood Blvd, Scottsdale, AZ 85250",33.250638,-111.796373
+7200 Sequoia Rd,Irving,TX,75014,"7200 Sequoia Rd, Irving, TX 75014",32.891497,-96.459392
+7300 Fir Dr,Fremont,CA,94536,"7300 Fir Dr, Fremont, CA 94536",37.555727,-122.018824
+7400 Hemlock Ave,Boise,ID,83701,"7400 Hemlock Ave, Boise, ID 83701",43.566449,-116.329983
+7500 Juniper Ln,Richmond,VA,23218,"7500 Juniper Ln, Richmond, VA 23218",37.608854,-77.509506
+7600 Cypress Rd,Baton Rouge,LA,70801,"7600 Cypress Rd, Baton Rouge, LA 70801",30.4492,-91.1856
+7700 Spruce Blvd,Spokane,WA,99201,"7700 Spruce Blvd, Spokane, WA 99201",47.652572,-117.446218
+7800 Pinecone Dr,Des Moines,IA,50301,"7800 Pinecone Dr, Des Moines, IA 50301",41.672687,-93.572173
+7900 Acorn Ave,Tacoma,WA,98401,"7900 Acorn Ave, Tacoma, WA 98401",47.116507,-122.410874
+8000 Chestnut Rd,San Bernardino,CA,92401,"8000 Chestnut Rd, San Bernardino, CA 92401",34.093033,-117.31628
+8100 Hickory Ln,Modesto,CA,95350,"8100 Hickory Ln, Modesto, CA 95350",37.702586,-121.031097
+8200 Pecan Blvd,Fontana,CA,92335,"8200 Pecan Blvd, Fontana, CA 92335",34.412061,-117.267765
+8300 Walnut Dr,Fayetteville,NC,28301,"8300 Walnut Dr, Fayetteville, NC 28301",35.0360782166757,-78.96271696399702
+8400 Cedar Ave,Moreno Valley,CA,92551,"8400 Cedar Ave, Moreno Valley, CA 92551",33.762299,-116.913627
+8500 Maple Rd,Santa Clarita,CA,91350,"8500 Maple Rd, Santa Clarita, CA 91350",34.174542,-118.908208
+8600 Oak Ln,Port St. Lucie,FL,34952,"8600 Oak Ln, Port St. Lucie, FL 34952",27.330569,-80.326399
+8700 Birch Blvd,Frisco,TX,75033,"8700 Birch Blvd, Frisco, TX 75033",33.157067,-96.833245
+8800 Poplar Dr,Huntington Beach,CA,92646,"8800 Poplar Dr, Huntington Beach, CA 92646",33.570256,-117.731988
+8900 Willow Rd,Yonkers,NY,10701,"8900 Willow Rd, Yonkers, NY 10701",40.927228,-73.891615
+9000 Sycamore Ave,Glendale,AZ,85301,"9000 Sycamore Ave, Glendale, AZ 85301",33.499088,-112.51374
+9100 Magnolia Ln,Aurora,IL,60502,"9100 Magnolia Ln, Aurora, IL 60502",41.816542,-88.249519
+9200 Dogwood Rd,Montgomery,AL,36101,"9200 Dogwood Rd, Montgomery, AL 36101",32.363903,-86.369968
+9300 Redwood Blvd,Amarillo,TX,79101,"9300 Redwood Blvd, Amarillo, TX 79101",35.247509,-101.824284
+9400 Sequoia Dr,Little Rock,AR,72201,"9400 Sequoia Dr, Little Rock, AR 72201",34.746905,-92.280049
+9500 Fir Ave,Oxnard,CA,93030,"9500 Fir Ave, Oxnard, CA 93030",34.1818026759312,-119.17278120684774
+9600 Hemlock Rd,Akron,OH,44301,"9600 Hemlock Rd, Akron, OH 44301",41.035745,-81.527732
+9700 Juniper Ln,Shreveport,LA,71101,"9700 Juniper Ln, Shreveport, LA 71101",32.415794,-93.778653
+9800 Cypress Blvd,Augusta,GA,30901,"9800 Cypress Blvd, Augusta, GA 30901",33.463904,-81.977528
+9900 Spruce Dr,Grand Rapids,MI,49501,"9900 Spruce Dr, Grand Rapids, MI 49501",42.871656,-85.682092
+10000 Pinecone Ave,Mobile,AL,36601,"10000 Pinecone Ave, Mobile, AL 36601",30.654081,-88.303063
