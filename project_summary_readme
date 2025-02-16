@@ -1,0 +1,28 @@
+in this project small dataset is used to deonstrate geocoding using open cage api as i dont have access to google api
+this repository has main.py file and jupyter notebook(commented clearly to understand the processing of code.)
+
+
+
+working of the code:(section1 and section2)
+The code loads a CSV file containing addresses and their corresponding latitude/longitude (if available).
+It checks each row to see if latitude or longitude is missing.
+if  missing, it uses the OpenCage Geocoder to fetch the latitude and longitude for the address.
+It updates the DataFrame with the new latitude and longitude values.
+Finally, it saves the updated DataFrame to a new CSV file.
+
+
+working of code:(section3)
+This code generates an interactive map using the folium library in Python. 
+It takes a dataset of geocoded addresses (with latitude and longitude) and plots them as markers on a map.
+however few address were miscalulated so the wrong address were corrected in the following process
+
+
+working of code: (section4 and section5)
+Purpose: Corrects specific incorrect addresses in the dataset by updating their latitude and longitude.
+
+addresses_to_fix: A dictionary where the keys are incorrect addresses and the values are their correct versions.
+
+Loop Through Dictionary:
+For each incorrect address (wrong_address), the script geocodes the correct address (correct_address) using the retry_geocode function.
+If geocoding is successful, it updates the Latitude and Longitude columns in the DataFrame for the corresponding incorrect address.
+Prints a success message for each corrected address.
